@@ -17,4 +17,4 @@
 ## 📫 **Find me here!**
 - 🌐 My Website: [hibou.kr](https://hibou.kr)  
 - 🔗 Github: [GitHub Repos](https://github.com/myje0319)
-- 📌 Contact : [your.email@example.com](mailto:your.email@example.com)  
+- 📌 Contact : [timothée0319@gmail.com](mailto:timothée0319@gmail.com)  
