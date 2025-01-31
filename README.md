@@ -15,6 +15,6 @@
 🇰🇷 한국어 (Native) | 🇫🇷 Français (B2/C1) | 🇬🇧 English (Working towards fluency)  
 
 ## 📫 **Find me here!**
-- 🌐 My Website: [hibou.kr](https://hibou.kr)
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/%EB%AA%85%EC%A4%80-%EC%9D%B4-4aa93322b/)  
-- 🏗️ Github: [GitHub Repos](https://github.com/myje0319)
+- 🌐 My Website: [hibou.kr](https://hibou.kr)  
+- 🔗 Github: [GitHub Repos](https://github.com/myje0319)
+- 📌 Contact : [your.email@example.com](mailto:your.email@example.com)  
